@@ -1,0 +1,21 @@
+{
+    "nama_toko": "Toko Buku Bahagia",
+    "alamat": "Jl. Jendral Sudirman No. 123, Jakarta",
+    "koleksi_buku": [
+        {
+            "judul": "Harry Potter and the Philosopher's Stone",
+            "pengarang": "J.K. Rowling",
+            "tahun_terbit": "1997"
+        },
+        {
+            "judul": "The Great Gatsby",
+            "pengarang": "F. Scott Fitzgerald",
+            "tahun_terbit": "1925"
+        },
+        {
+            "judul": "To Kill a Mockingbird",
+            "pengarang": "Harper Lee",
+            "tahun_terbit": "1960"
+        }
+    ]
+}
